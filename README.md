@@ -13,7 +13,7 @@ This project is a Java-based system designed for a bookshop, aimed at streamlini
   - **Customers** can view books, add to shopping basket, make payments, cancel orders, and perform specific searches.
 - **Shopping Basket**: Customers can manage their purchases and payments through a shopping basket system.
 - **Error Handling**: The system has robust error handling to notify users of issues like out-of-stock items or insufficient credits.
-- **User Interface**: Option for both Graphical User Interface (GUI) and Command-Line Interface (CLI), with GUI being the more favored option.
+- **User Interface**: Intuitive Graphical User Interface (GUI).
 
 ## Technical Specifications
 - **Language**: Java.
